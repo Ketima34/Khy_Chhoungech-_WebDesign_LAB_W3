@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(124, 100, 71);
+    align-items: center;
+}
+.container{
+    
+    background-color: rgb(252, 209, 156);
+    border-radius: 10%;
+    padding: 10px;
+    padding-top:10px
+    
+    
+}
+
+label[for ="container"]{
+    
+  color: #1e3a58;   /* Make the "Class" label blue */
+  font-size: 1.5em;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+}
+.Name{
+    align-items: center;
+}
